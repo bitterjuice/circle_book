@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "606669099034",
+    "project_id": "circlebook-ssj",
+    "storage_bucket": "circlebook-ssj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606669099034:android:d7e50161ef31113dbb41a3",
+        "android_client_info": {
+          "package_name": "com.example.circle_book"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606669099034-dl93jvgefuc0642s9cg6fc8vcajtr1di.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPE4vUYSP7jW_BjJCVR8sKszeyPzGg3ik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606669099034-dl93jvgefuc0642s9cg6fc8vcajtr1di.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
